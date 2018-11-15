@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\TestCharacterControl\TestCharacterControl\bin\Release\TestCharacterControl.exe.config
+C:\Users\User\source\repos\TestCharacterControl\TestCharacterControl\bin\Release\TestCharacterControl.exe
+C:\Users\User\source\repos\TestCharacterControl\TestCharacterControl\bin\Release\TestCharacterControl.pdb
+C:\Users\User\source\repos\TestCharacterControl\TestCharacterControl\obj\Release\TestCharacterControl.Form1.resources
+C:\Users\User\source\repos\TestCharacterControl\TestCharacterControl\obj\Release\TestCharacterControl.Properties.Resources.resources
+C:\Users\User\source\repos\TestCharacterControl\TestCharacterControl\obj\Release\TestCharacterControl.csproj.GenerateResource.cache
+C:\Users\User\source\repos\TestCharacterControl\TestCharacterControl\obj\Release\TestCharacterControl.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TestCharacterControl\TestCharacterControl\obj\Release\TestCharacterControl.exe
+C:\Users\User\source\repos\TestCharacterControl\TestCharacterControl\obj\Release\TestCharacterControl.pdb

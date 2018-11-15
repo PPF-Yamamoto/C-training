@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\TestCharacterControl\TestCharacterControl\bin\Debug\TestCharacterControl.exe.config
+C:\Users\User\source\repos\TestCharacterControl\TestCharacterControl\bin\Debug\TestCharacterControl.exe
+C:\Users\User\source\repos\TestCharacterControl\TestCharacterControl\bin\Debug\TestCharacterControl.pdb
+C:\Users\User\source\repos\TestCharacterControl\TestCharacterControl\obj\Debug\TestCharacterControl.Form1.resources
+C:\Users\User\source\repos\TestCharacterControl\TestCharacterControl\obj\Debug\TestCharacterControl.Properties.Resources.resources
+C:\Users\User\source\repos\TestCharacterControl\TestCharacterControl\obj\Debug\TestCharacterControl.csproj.GenerateResource.cache
+C:\Users\User\source\repos\TestCharacterControl\TestCharacterControl\obj\Debug\TestCharacterControl.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TestCharacterControl\TestCharacterControl\obj\Debug\TestCharacterControl.exe
+C:\Users\User\source\repos\TestCharacterControl\TestCharacterControl\obj\Debug\TestCharacterControl.pdb
+C:\Users\User\source\repos\TestCharacterControl\TestCharacterControl\obj\Debug\TestCharacterControl.csprojAssemblyReference.cache
