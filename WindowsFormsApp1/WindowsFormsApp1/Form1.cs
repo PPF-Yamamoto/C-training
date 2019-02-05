@@ -59,7 +59,7 @@ namespace WindowsFormsApp1
 
             foreach (string str in strEnemys)
             {
-                MessageBox.Show(str + "をたおした！");
+                MessageBox.Show(str + "を倒した！");
             }
 
 
